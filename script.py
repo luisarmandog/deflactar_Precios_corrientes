@@ -1,14 +1,14 @@
 ###################################SCRIPT PARA DEFLACTAR CIFRAS ANUALES EN COLOMBIA CON BASE 2018 ####################################\n",
-#Autor: Luis Armando Gelvez\n",
-#Version 1\n",
-#Actualización 23 de julio de 2024\n
+#Autor: Luis Armando Gelvez,
+#Version 1,
+#Actualización 23 de julio de 2024
 
 # IMportamos datos
 #Datos de Banrep, LINK https://totoro.banrep.gov.co/analytics/saw.dll?Download&Format=excel2007&Extension=.xls&BypassCache=true&lang=es&path=%2Fshared%2FSeries%20Estad%C3%ADsticas_T%2F1.%20IPC%20base%202018%2F1.2.%20Por%20a%C3%B1o%2F1.2.3.IPC_Por%20grupo%20de%20gasto_IQY"
 
 # Instalar pandas y openpyxl desde el entorno de Jupyter Notebook
-#%pip install pandas
-#%pip install openpyxl
+#% pip install pandas
+#% pip install openpyxl
 #%pip install requests
  # Importar las bibliotecas necesarias
 import os
